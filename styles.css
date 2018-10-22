@@ -1,0 +1,59 @@
+/* add your CSS here */
+body {
+  font-family: arial;
+}
+
+#container {
+  width: 300px;
+  height: auto;
+  padding: 2px;
+  background-image: url(https://bluesoulmaui.com/wp-content/uploads/2016/08/shutterstock_51477952-e1471987780162.jpg);
+  border: 2px solid #000;
+  border-radius: 12px;
+  box-shadow: 2px 2px 5px grey;
+}
+
+h1 {
+  width: 200px;
+  margin-left: 10px;
+  background-color: #ffffffdf;
+  border: 1px solid #000;
+  box-shadow: 1px 1px 8px #000;
+  border-radius: 12px;
+  padding-left: 3px;
+}
+
+#animalPic {
+  width: 280px;
+  height: auto;
+  margin: 0 0 12px 8px;
+  box-shadow: 2px 2px 5px #000;
+  border-radius: 12px;
+}
+
+#card {
+  width: 280px;
+  height: auto;
+  margin: 0 0 10px 8px;
+  box-shadow: 1px 1px 8px #000;
+  background-color: #ffffffdf;
+  border: 1px solid #000;
+  border-radius: 12px;
+}
+
+#interesting-fact {
+   padding: 5px;
+   font-style: italic;
+}
+
+#facts {
+  list-style-type: none;
+  margin-left: -25px;
+  font-weight: 700;
+  font-size: 14px;
+}
+
+#summary {
+  padding: 6px;
+  font-size: 15px;
+}  
